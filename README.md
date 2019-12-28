@@ -2,3 +2,5 @@
 Automatic Lyrics Search for iTunes
 
 Please feel free to use the code.
+
+Requirements: Mac and XCode.
