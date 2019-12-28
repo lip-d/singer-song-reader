@@ -1,0 +1,29 @@
+{name = DZRPlayerDidStartPlayingNotification; object = com.deezer.Deezer; userInfo = {
+    track =     {
+        albumName = "Ghost Stories";
+        albumUniqueId = 8679369;
+        artistName = Coldplay;
+        artistUniqueId = 892;
+        bpm = 0;
+        cover = "https://api.deezer.com/album/8679369/image";
+        coverData = <ffd8ffe0 00104a46 49460001 01010048 004…………….
+        coverMd5 = 58669ace38d333770941332f8d860dc1;
+        coverUniqueId = 8679369;
+        "disk_number" = 1;
+        duration = 216;
+        dzrVersion = 2;
+        fileSystemName = "Always In My Head";
+        gain = 0;
+        link = "http://www.deezer.com/track/86044525";
+        "md5_origin" = f5123173175193840b06f8be093bebc5;
+        preview = "http://cdn-preview-f.deezer.com/stream/f5123173175193840b06f8be093bebc5-3.mp3";
+        readable = 1;
+        title = "Always In My Head";
+        "track_position" = 1;
+        type = track;
+        uniqueId = 86044525;
+    };
+
+{name = DZRPlayerDidStopPlayingNotification; object = com.deezer.Deezer; userInfo = {
+    DZRPlayerDidStopPlayingIsPausedUserInfoKey = 0;
+}}

@@ -1,0 +1,4 @@
+<ITunesFileTrack @0x600000059920: ITunesFileTrack id 11339 of ITunesUserPlaylist id 10709 of ITunesSource id 77 of application "iTunes" (1047)>
+
+// un-downloaded cloud track (Cloud-stored tracks )
+<ITunesSharedTrack @0x608000457610: ITunesSharedTrack id 11358 of ITunesUserPlaylist id 10709 of ITunesSource id 77 of application "iTunes" (1047)>

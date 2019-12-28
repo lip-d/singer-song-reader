@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Singer Song Reader' target in the 'Singer Song Reader' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
